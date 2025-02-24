@@ -59,15 +59,11 @@ Jet Fitness App is a modern fitness tracking application built using **Kotlin** 
 
 ## 📷 Screenshots
 
-*(Add screenshots if available)*
+
 
 ## 👤 Author
 
 **Shashank Narayan Juwar**
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
